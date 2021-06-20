@@ -1,0 +1,13 @@
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\netcoreapp3.1\Buoi_ChuaBai.exe
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\netcoreapp3.1\Buoi_ChuaBai.deps.json
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\netcoreapp3.1\Buoi_ChuaBai.runtimeconfig.json
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\netcoreapp3.1\Buoi_ChuaBai.runtimeconfig.dev.json
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\netcoreapp3.1\Buoi_ChuaBai.dll
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\bin\Debug\netcoreapp3.1\Buoi_ChuaBai.pdb
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\netcoreapp3.1\Buoi_ChuaBai.csprojAssemblyReference.cache
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\netcoreapp3.1\Buoi_ChuaBai.AssemblyInfoInputs.cache
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\netcoreapp3.1\Buoi_ChuaBai.AssemblyInfo.cs
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\netcoreapp3.1\Buoi_ChuaBai.csproj.CoreCompileInputs.cache
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\netcoreapp3.1\Buoi_ChuaBai.dll
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\netcoreapp3.1\Buoi_ChuaBai.pdb
+C:\Users\MSI LAPTOP\source\repos\KhoaHoc_C\Buoi_ChuaBai\obj\Debug\netcoreapp3.1\Buoi_ChuaBai.genruntimeconfig.cache
